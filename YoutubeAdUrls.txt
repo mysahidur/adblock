@@ -1,0 +1,10 @@
+0.0.0.0 i.ytimg.com/generate_204
+0.0.0.0 googlevideo.com/generate_204
+0.0.0.0 www.youtube.com/api/stats
+0.0.0.0 doubleclick.net
+0.0.0.0 google.com/pagead
+0.0.0.0 google.co.in/pagead
+0.0.0.0 youtube.com/ptracking
+0.0.0.0 youtube.com/youtubei
+0.0.0.0 youtube.com/generate_204
+0.0.0.0 youtube.com/api/stats
